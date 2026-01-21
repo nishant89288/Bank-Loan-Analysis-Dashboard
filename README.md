@@ -25,7 +25,6 @@ This project helps answer key business questions such as:
 - What percentage of loans are **Good Loans vs Bad Loans**?
 - Which states, purposes, and borrower profiles drive the most loan activity?
 
-(Reference: project problem statement and KPI requirements) 
 
 ---
 
