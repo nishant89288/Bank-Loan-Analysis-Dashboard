@@ -25,7 +25,7 @@ This project helps answer key business questions such as:
 - What percentage of loans are **Good Loans vs Bad Loans**?
 - Which states, purposes, and borrower profiles drive the most loan activity?
 
-(Reference: project problem statement and KPI requirements) :contentReference[oaicite:0]{index=0}
+(Reference: project problem statement and KPI requirements) 
 
 ---
 
@@ -51,7 +51,7 @@ Loan Status Grid View:
 - Amount received
 - Avg interest rate
 - Avg DTI
-- MTD metrics by loan status :contentReference[oaicite:1]{index=1}
+- MTD metrics by loan status 
 
 ---
 
@@ -62,12 +62,12 @@ Visual insights:
 - Loan Term Analysis (Donut Chart)
 - Employee Length Analysis (Bar Chart)
 - Loan Purpose Breakdown (Bar Chart)
-- Home Ownership Analysis (Tree Map) :contentReference[oaicite:2]{index=2}
+- Home Ownership Analysis (Tree Map) 
 
 ---
 
 ### **Dashboard 3: Details**
-A detailed grid-style report that provides a consolidated view of loan-level information for deeper portfolio exploration and filtering. :contentReference[oaicite:3]{index=3}
+A detailed grid-style report that provides a consolidated view of loan-level information for deeper portfolio exploration and filtering. 
 
 ---
 
@@ -80,7 +80,7 @@ The dataset contains loan application and borrower-level fields such as:
 - Address State, Employee Length, Employee Title
 - Purpose, Home Ownership, Grade/Sub Grade
 
-Field definitions and business meaning are documented in the project documentation. :contentReference[oaicite:4]{index=4}
+Field definitions and business meaning are documented in the project documentation. 
 
 ---
 
