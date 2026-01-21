@@ -3,7 +3,7 @@
 <img width="1753" height="927" alt="image" src="https://github.com/user-attachments/assets/c5dad10a-f6fc-4f89-b1e2-1c5245b8382f" />
 
 
-This project is a complete **Bank Loan Data Analysis and Reporting solution** built using **MS SQL Server, Python, and Power BI**.  
+This project is a complete **Bank Loan Data Analysis and Reporting solution** built using **MySQL, Python, and Power BI**.  
 The goal is to analyze loan application trends, funded amounts, repayments, borrower risk indicators, and overall loan portfolio performance through interactive dashboards and KPI reporting.
 
 The project includes:
@@ -86,7 +86,7 @@ Field definitions and business meaning are documented in the project documentati
 
 ## 🛠 Tools & Technologies Used
 
-- **MYSQL** (Database creation + SQL queries)
+- **MySQL** (Database creation + SQL queries)
 - **Power BI** (Dashboard creation + DAX + Power Query)
 - **Python (Jupyter Notebook)** (Exploration / validation)
 - **Excel / CSV** (Dataset format)
